@@ -8,14 +8,14 @@ To extract key data such as doctor name, patient name, prescription date, addres
 
 ## Tools & Technologies Used
 
-Python Libraries:
-pdf2image: To convert PDF files into images.
-Pillow: For image processing and saving the output.
-OpenCV: For image preprocessing and thresholding.
-PyTesseract: For OCR (Optical Character Recognition) to extract text from images.
-re: For parsing text using regular expressions.
-Tesseract-OCR: OCR engine for extracting text from images.
-Poppler: A PDF rendering library to assist with the conversion of PDF to images.
+Python Libraries:\
+pdf2image: To convert PDF files into images.\
+Pillow: For image processing and saving the output.\
+OpenCV: For image preprocessing and thresholding.\
+PyTesseract: For OCR (Optical Character Recognition) to extract text from images.\
+re: For parsing text using regular expressions.\
+Tesseract-OCR: OCR engine for extracting text from images.\
+Poppler: A PDF rendering library to assist with the conversion of PDF to images.\
 Operating System: macOS
 
 ## Project Workflow
