@@ -1,0 +1,9 @@
+Doctor: John Smith
+Patient Name:  Virat Kohli Date
+Date: 2/05/2022
+Address: 2 cricket blvd, New Delhi
+
+
+Medications:
+ - Omeprazole: 40 mg
+Refill: 3 times

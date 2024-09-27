@@ -1,0 +1,14 @@
+Doctor: John Smith
+Patient Name: Marta Sharapova Date
+Date: 2/11/2022
+Address: 9 tennis court, new Russia, DC
+
+K
+
+Prednisone 20 mg
+Lialda 2
+Medications:
+ - Prednisone: 20 mg
+ - Lialda: 2.4 gram
+ - Taper: 5 mg
+Refill: 2 times
